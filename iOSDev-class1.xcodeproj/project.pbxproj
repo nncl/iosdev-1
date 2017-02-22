@@ -13,6 +13,7 @@
 		AC644AF21E5E4785005FAFF2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC644AF11E5E4785005FAFF2 /* Assets.xcassets */; };
 		AC644AF51E5E4785005FAFF2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC644AF31E5E4785005FAFF2 /* LaunchScreen.storyboard */; };
 		AC644AFD1E5E47FD005FAFF2 /* Label.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC644AFC1E5E47FD005FAFF2 /* Label.storyboard */; };
+		AC644AFF1E5E4D37005FAFF2 /* Button.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC644AFE1E5E4D37005FAFF2 /* Button.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AC644AF41E5E4785005FAFF2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AC644AF61E5E4785005FAFF2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AC644AFC1E5E47FD005FAFF2 /* Label.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Label.storyboard; sourceTree = "<group>"; };
+		AC644AFE1E5E4D37005FAFF2 /* Button.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Button.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				AC644AEC1E5E4785005FAFF2 /* ViewController.swift */,
 				AC644AEE1E5E4785005FAFF2 /* Main.storyboard */,
 				AC644AFC1E5E47FD005FAFF2 /* Label.storyboard */,
+				AC644AFE1E5E4D37005FAFF2 /* Button.storyboard */,
 				AC644AF11E5E4785005FAFF2 /* Assets.xcassets */,
 				AC644AF31E5E4785005FAFF2 /* LaunchScreen.storyboard */,
 				AC644AF61E5E4785005FAFF2 /* Info.plist */,
@@ -130,6 +133,7 @@
 				AC644AF21E5E4785005FAFF2 /* Assets.xcassets in Resources */,
 				AC644AF01E5E4785005FAFF2 /* Main.storyboard in Resources */,
 				AC644AFD1E5E47FD005FAFF2 /* Label.storyboard in Resources */,
+				AC644AFF1E5E4D37005FAFF2 /* Button.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
