@@ -64,7 +64,7 @@
                                 <color key="tintColor" red="1" green="0.63043111869532187" blue="0.73281726014919091" alpha="1" colorSpace="calibratedRGB"/>
                             </slider>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pyg-JL-PoA">
-                                <rect key="frame" x="109" y="209" width="103" height="30"/>
+                                <rect key="frame" x="109" y="192" width="103" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button" backgroundImage="button">
                                     <color key="titleColor" red="0.99896240562368477" green="1" blue="0.97247541698701645" alpha="1" colorSpace="calibratedRGB"/>
