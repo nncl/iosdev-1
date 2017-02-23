@@ -18,4 +18,4 @@ By:
 	- delegate responsibilities to other classes
 	- VIA STORYBOARD OR CODE
 
-
+- iPhone ultimate guide to iphone resolutions
