@@ -78,4 +78,15 @@ extension ViewController: UITextFieldDelegate {
         
         return true
     }
+    
+    // If a user tries to get out from a field without entering data, do not quit
+    func textFieldShouldEndEditing(_ textField: UITextField) -> Bool {
+        return !textField.text!.isEmpty
+    }
+    
+    // Change characters from a textfield? We add MASKS here
+    // paramers: 1 = textfield, 2 = range w/ number of characters, length, position etc; remember about copy and paste, 3 = what is being typed
+    func textField(_ textField: UITextField, shouldChangeCharactersIn range: NSRange, replacementString string: String) -> Bool {
+        return true
+    }
 }
